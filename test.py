@@ -1,1 +1,1 @@
-print("Danish is good Boy")
+print("Danish is Good Boy")
